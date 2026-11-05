@@ -18,6 +18,10 @@ Before this learning plan, I had some experience discussing fairness, privacy an
 | 3 | Complete required assessments; review responses against learning outcomes | Completion/assessment record; corrected understanding |
 | 4 | Write a reflection explaining how ethics, privacy and Indigenous considerations should influence software and AI-enabled system design | Dated reflection with a concrete scenario |
 
+## Available analytical artefact
+
+- [E1.4: DesignR ethical case analysis](DesignR-Ethics-Analysis.md) — derived from A3 draft; demonstrates an analytical outcome but does not verify the module learning record or 45 hours.
+
 ## 3. Evidence to add
 
 - [ ] **E1.1** — Working Ethically completion record or documented activity
