@@ -2,21 +2,21 @@
 
 This register connects the **three goals in Assessment Task 1**, actual professional-learning activities, and the supporting artefacts referred to in the **Professional Learning Report (A3)**.
 
-**Status key:** **Pending** = activity/result not yet verified; **Verified** = link or file, date and outcome checked. Never mark an item Verified solely because the template exists.
+**Status key:** **Pending** = activity/result not yet verified; **Artefact verified; learning unverified** = a written artefact or historical technical source can be checked, but course-module completion and learning hours remain unconfirmed; **Verified** = evidence, date and narrowly stated outcome have been checked. Never mark a course module or hours as completed solely because an artefact exists.
 
 | Evidence ID | A1 goal | Planned / suggested artefact | Date | Status | Evidence link | What this demonstrates |
 |---|---|---|---|---|---|---|
 | E1.1 | Ethics | Working Ethically module completion/activity record | — | Pending | — | Module learning |
 | E1.2 | Ethics | Indigenous Professional Capability activity/completion record | — | Pending | — | Indigenous professional learning |
 | E1.3 | Ethics | Learning notes | — | Pending | — | Ethical concepts and reasoning |
-| E1.4 | Ethics | Reflective software or AI case analysis | — | Pending | — | Application of ethical principles |
+| E1.4 | Ethics | [DesignR case analysis](../Goal-1-Professional-Ethics/DesignR-Ethics-Analysis.md), adapted from A3 draft | 2026-11-05 (report draft) | Artefact verified; learning unverified | [Analysis](../Goal-1-Professional-Ethics/DesignR-Ethics-Analysis.md) | Ethical reasoning and proposed design requirements; does not verify Canvas module completion |
 | E2.1 | Cybersecurity | Introduction to Cybersecurity module record | — | Pending | — | Structured cybersecurity learning |
 | E2.2 | Cybersecurity | Dated cybersecurity notes | — | Pending | — | Understanding of threats and controls |
-| E2.3 | Cybersecurity | Java backend security-risk analysis | — | Pending | — | Identification and mitigation of risks |
+| E2.3 | Cybersecurity | [Source-based backend security risk review](../Goal-2-Cybersecurity/Backend-Security-Risk-Review.md) | 2026-11-05 (report draft) | Artefact verified; learning unverified | [Review](../Goal-2-Cybersecurity/Backend-Security-Risk-Review.md) | Existing source code inspection, security-control limitations and suggested tests; not independent test execution |
 | E2.4 | Cybersecurity | Specific tested security control (if completed) | — | Pending | — | Practical application |
 | E3.1 | Tools | Software Development Tools module record | — | Pending | — | Structured tools learning |
 | E3.2 | Tools | Specific Git branches, commits or review records | — | Pending | — | Version-control workflow |
-| E3.3 | Tools | Build and test output | — | Pending | — | Reproducible build / testing |
+| E3.3 | Tools | FinLedger historical CI configuration, run and results | 2026-09-03 | Verified (recorded run only) | [Workflow evidence](../Goal-3-Software-Development-Tools/CI-Workflow-Evidence.md) | Recorded Maven verification and Docker image build succeeded; not 45 hours or course completion |
 | E3.4 | Tools | Java project workflow documentation | — | Pending | — | Professional documentation |
 | E3.5 | Tools | CI/CD workflow run (if completed) | — | Pending | — | Continuous integration |
 
