@@ -20,6 +20,10 @@ My A1 Skills Audit identified introductory knowledge of authentication, access c
 
 The A1 Skills Audit also mentioned a plan to study **OWASP Top 10** and explore role-based access control. Include these only if actually completed.
 
+## Available analytical artefact
+
+- [E2.3: Source-based backend security risk review](Backend-Security-Risk-Review.md) — documented evaluation of existing project code; not proof of real security test execution or course completion.
+
 ## 3. Evidence to add
 
 - [ ] **E2.1** — Introduction to Cybersecurity module record
