@@ -22,6 +22,12 @@ In my A1 Skills Audit, I identified Java backend engineering as a long-term prof
 
 **Important time note:** A1 allocates **135 planned hours** across these three goals (45 × 3), whereas A3 refers to learning equivalent to approximately **150 effort hours**. Only actual, supportable learning time will be claimed in the final report. Any additional relevant activity must be documented in the [learning log](Learning-Log/learning-hours.csv).
 
+## Documented artefacts already available
+
+- **E1.4:** [DesignR ethical case analysis](Goal-1-Professional-Ethics/DesignR-Ethics-Analysis.md) — an analysis derived from the 5 November 2026 draft report, **not** verified Canvas learning completion.
+- **E2.3:** [Backend security risk review](Goal-2-Cybersecurity/Backend-Security-Risk-Review.md) — source-based inspection and risk reasoning, **not** a completed penetration test or module assessment.
+- **E3.3:** [FinLedger CI workflow evidence](Goal-3-Software-Development-Tools/CI-Workflow-Evidence.md) — successful recorded run of 3 September 2026, **not** evidence of learning hours or every A1 activity.
+
 ## Portfolio navigation
 
 - [Goal 1: Professional Ethics and Indigenous Communities](Goal-1-Professional-Ethics/README.md)
