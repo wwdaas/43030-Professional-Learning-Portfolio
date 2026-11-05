@@ -27,6 +27,10 @@ The A1 Skills Audit also proposed CI/CD using GitHub Actions; this should be rep
 
 **Important:** These links are existing project context only. To use them as A3 evidence, identify *specific* commits, pull requests, build logs, tests, or documentation that correspond to the learning period and goal.
 
+## Available recorded technical artefact
+
+- [E3.3: FinLedger CI evidence](CI-Workflow-Evidence.md) — one successful run on 3 September 2026; does not verify A1 learning time or module completion.
+
 ## 4. Evidence to add
 
 - [ ] **E3.1** — Software Development Tools module record
