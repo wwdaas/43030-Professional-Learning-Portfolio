@@ -43,7 +43,7 @@ These results were read from submitted Canvas screenshots. Original screenshot i
 - [Goal 2: Cybersecurity](Goal-2-Cybersecurity/README.md)
 - [Goal 3: Software Development Tools](Goal-3-Software-Development-Tools/README.md)
 - [Evidence register](Evidence/README.md) — artefact identifiers and verification status
-- [Learning evidence-event log](Learning-Log/learning-hours.csv) — verified event dates; study hours remain unknown
+- [Learning evidence-event log](Learning-Log/learning-hours.csv) — verified event dates; individual session hours not recorded
 - [Learning-effort statement](Learning-Log/learning-effort-statement.md) — student recalls learning across several weeks, but no reliable daily session hours
 - [A1–Portfolio–A3 alignment guide](REPORT-LINKING.md) — reporting structure
 
