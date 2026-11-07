@@ -22,6 +22,10 @@ Before this learning plan, I had some experience discussing fairness, privacy an
 
 - [E1.4: DesignR ethical case analysis](DesignR-Ethics-Analysis.md) — derived from A3 draft; demonstrates an analytical outcome but does not verify the module learning record or 45 hours.
 
+## Canvas submission result
+
+- **E1.6:** [DesignR Assessment 2 submission record](DesignR-Assessment-2-Submission.md) — submitted **8 October 2026 at 14:24**. Actual mark is not visible. Screenshot is in the current conversation and has not yet been uploaded to this repository.
+
 ## 3. Evidence to add
 
 - [ ] **E1.1** — Working Ethically completion record or documented activity
