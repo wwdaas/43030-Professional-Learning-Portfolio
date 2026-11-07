@@ -31,6 +31,13 @@ The A1 Skills Audit also proposed CI/CD using GitHub Actions; this should be rep
 
 - [E3.3: FinLedger CI evidence](CI-Workflow-Evidence.md) — one successful run on 3 September 2026; does not verify A1 learning time or module completion.
 
+## Canvas quiz results
+
+- **E3.7:** GitHub Essentials Quiz 1 — **9/10 (90%)**, latest attempt duration **3 minutes**.
+- **E3.8:** GitHub Workflow Quiz 2 — **8/10 (80%)**, latest attempt duration **4 minutes**.
+
+[View verified score record and evidence scope](GitHub-Quiz-Results.md). Dates are not visible on the two screenshots, and the screenshot images have not yet been uploaded to this repository.
+
 ## 4. Evidence to add
 
 - [ ] **E3.1** — Software Development Tools module record
