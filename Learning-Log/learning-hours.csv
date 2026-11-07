@@ -1,4 +1,7 @@
 Date,Goal,Activity,Learning_resource,Actual_hours,Evidence_ID,Reflection_or_outcome,Verification_status
-,Goal 1 - Ethics,,,,,,Pending
-,Goal 2 - Cybersecurity,,,,,,Pending
-,Goal 3 - Development Tools,,,,,,Pending
+2026-10-08,Goal 1 - Ethics,DesignR Assessment 2 submission,Canvas DesignR ethics assignment,,E1.6 / E1.7,Submitted 14:24 - actual study and writing hours not verified,Submission verified - hours pending
+2026-11-07,Goal 2 - Cybersecurity,Cybersecurity Assessment 1 Quiz,UTS Introduction to Cybersecurity,,E2.6,Submitted 17:06 - 18.5 out of 20 - duration and prior study hours not verified,Quiz verified - hours pending
+2026-11-07,Goal 2 - Cybersecurity,Cybersecurity Assessment 2 Quiz,UTS Introduction to Cybersecurity,,E2.7,Submitted 17:10 - 18 out of 20 - duration and prior study hours not verified,Quiz verified - hours pending
+,Goal 3 - Development Tools,GitHub Essentials Quiz 1,UTS Software Development Tools,,E3.7,9 out of 10 - 3-minute latest attempt - submission date and total study hours not shown,Quiz verified - hours pending
+,Goal 3 - Development Tools,GitHub Workflow Quiz 2,UTS Software Development Tools,,E3.8,8 out of 10 - 4-minute latest attempt - submission date and total study hours not shown,Quiz verified - hours pending
+2026-09-03,Goal 3 - Development Tools,FinLedger historical CI run,GitHub Actions,,E3.3,Successful Maven verification and Docker image build - no A1 learning duration inferred,Historical run verified - learning hours pending
