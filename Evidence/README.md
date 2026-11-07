@@ -26,6 +26,12 @@ This register connects the **three goals in Assessment Task 1**, actual professi
 | **E3.7** | Tools | GitHub Essentials Quiz 1 | Submission date not visible | **Canvas screenshot verified; image upload pending** | [Quiz results](../Goal-3-Software-Development-Tools/GitHub-Quiz-Results.md) | **9/10 (90%)**, last attempt 3 minutes |
 | **E3.8** | Tools | GitHub Workflow Quiz 2 | Submission date not visible | **Canvas screenshot verified; image upload pending** | [Quiz results](../Goal-3-Software-Development-Tools/GitHub-Quiz-Results.md) | **8/10 (80%)**, last attempt 4 minutes |
 
+## Canvas screenshot evidence in the submitted A3 report
+
+The five Canvas screenshots provided in the student's working materials are reproduced as **cropped original-screen excerpts in Appendix A (page 6)** of the revised Assessment Task 3 PDF. They show the DesignR assignment submission, two Cybersecurity quiz marks, and two GitHub quiz marks. The report is intended for Canvas submission and has **not been uploaded publicly to this repository**.
+
+The text records E1.6, E2.6, E2.7, E3.7 and E3.8 have been cross-checked against those screenshots. Because the original image files are not yet hosted here, they are still described in this public register as **image upload pending**. This is a visibility limitation, not a denial that the screenshots were provided.
+
 ## How to add a real artefact
 
 1. Check that you have permission to share the material publicly.
