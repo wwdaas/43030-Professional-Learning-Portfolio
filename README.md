@@ -20,7 +20,7 @@ In my A1 Skills Audit, I identified Java backend engineering as a long-term prof
 | **2. Foundational Cybersecurity** | Understanding threats, security controls and secure backend design | 45 hours | [View Goal 2](Goal-2-Cybersecurity/README.md) |
 | **3. Software Development Tools** | Using professional development tools and repeatable workflows | 45 hours | [View Goal 3](Goal-3-Software-Development-Tools/README.md) |
 
-**Important time note:** A1 allocates **135 planned hours** across these three goals (45 × 3), whereas A3 refers to learning equivalent to approximately **150 effort hours**. Only actual, supportable learning time will be claimed in the final report. Any additional relevant activity must be documented in the [learning log](Learning-Log/learning-hours.csv).
+**Important time note:** A1 allocates **135 planned hours** across these three goals (45 × 3), whereas A3 refers to learning equivalent to approximately **150 effort hours**. The student has separately confirmed approximately 150 hours as a retrospective estimate; it is not independently time-logged. No unverified per-goal or session-hour distribution is invented.
 
 ## Documented artefacts already available
 
@@ -44,7 +44,7 @@ These results were read from submitted Canvas screenshots. Original screenshot i
 - [Goal 3: Software Development Tools](Goal-3-Software-Development-Tools/README.md)
 - [Evidence register](Evidence/README.md) — artefact identifiers and verification status
 - [Learning evidence-event log](Learning-Log/learning-hours.csv) — verified event dates; study hours remain unknown
-- [Learning-effort statement](Learning-Log/learning-effort-statement.md) — student recalls learning across several weeks, but no reliable daily or total hours
+- [Learning-effort statement](Learning-Log/learning-effort-statement.md) — student recalls learning across several weeks, but no reliable daily session hours
 - [A1–Portfolio–A3 alignment guide](REPORT-LINKING.md) — reporting structure
 
 ## Relevant software project context
