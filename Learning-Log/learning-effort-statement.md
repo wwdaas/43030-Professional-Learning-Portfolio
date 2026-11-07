@@ -1,36 +1,39 @@
-# Professional Learning Effort Statement — A3 Evidence Note
+# Professional Learning Effort Statement — Assessment Task 3
 
-**Student-reported recollection (7 November 2026):** The learning activities associated with the four Canvas modules took place **across several weeks**. The student does not recall a reliable average number of hours studied per day and provided no independent detailed time log. The date range, number of sessions, and total actual study hours are **not established** by this recollection.
+**Updated student statement (7 November 2026):** The student explicitly confirms having invested **approximately 150 hours** in the A1-aligned professional learning experiences, spread over several weeks. This is a **retrospective self-reported total**. The student did not retain a reliable session-by-session hours log or daily average, so the 150-hour total is **not independently verified** and cannot accurately be divided across the three goals.
 
-## Evidence that can currently be verified
+## Planned and actual effort — different evidence types
 
-| Goal | Verifiable event / outcome | Event date | What remains unknown |
+| Measure | Hours | Evidence status |
+|---|---:|---|
+| A1 original plan: Goal 1 | 45 | Planned, not individually timed |
+| A1 original plan: Goal 2 | 45 | Planned, not individually timed |
+| A1 original plan: Goal 3 | 45 | Planned, not individually timed |
+| **A1 planned total** | **135** | Original plan |
+| **A3 expected learning-equivalent effort** | **approximately 150** | Assessment brief |
+| **Student's recalled actual total** | **approximately 150** | **Retrospective self-report, not a timestamp-derived total** |
+
+The estimated actual effort was greater than the original A1 allocation, but there is no supportable per-goal allocation of the additional effort. In particular, the difference between **135 planned** and **approximately 150 retrospectively reported** should **not** be assigned to a specific module without further evidence.
+
+## Independently verifiable outcomes
+
+| Goal | Recorded event | Date | Outcome |
 |---|---|---|---|
-| G1 — Professional Ethics and Indigenous Communities | DesignR Assessment 2 submission and uploaded ethical email | 8 Oct 2026, 14:24 | Preparation dates, time spent reading and writing, completion of both Canvas modules |
-| G2 — Cybersecurity | Assessment 1 Quiz: 18.5/20 | 7 Nov 2026, 17:06 | Time studying or completing other activities |
-| G2 — Cybersecurity | Assessment 2 Quiz: 18/20 | 7 Nov 2026, 17:10 | Time studying or completing other activities |
-| G3 — Development Tools | GitHub Essentials Quiz 1: 9/10 (3-minute attempt) | Not visible in screenshot | Preparation hours and submission date |
-| G3 — Development Tools | GitHub Workflow Quiz 2: 8/10 (4-minute attempt) | Not visible in screenshot | Preparation hours and submission date |
-| G3 — Development Tools | Historical FinLedger CI run: Maven verification and Docker build successful | 3 Sep 2026 | Whether and how much time was spent on A1-relevant study |
+| G1 — Professional Ethics and Indigenous capability | DesignR Assessment 2 submission | 8 Oct 2026, 14:24 | Submitted email; mark not released |
+| G2 — Cybersecurity | Assessment 1 quiz | 7 Nov 2026, 17:06 | 18.5/20 |
+| G2 — Cybersecurity | Assessment 2 quiz | 7 Nov 2026, 17:10 | 18/20 |
+| G3 — Software Development Tools | GitHub Essentials quiz | Submission date not visible | 9/10; three-minute latest attempt |
+| G3 — Software Development Tools | GitHub Workflow quiz | Submission date not visible | 8/10; four-minute latest attempt |
+| G3 — Software Development Tools | Historical FinLedger CI run | 3 Sep 2026 | Maven verification and Docker image build succeeded |
 
-The 3-minute and 4-minute durations refer **only to quiz attempts**, not course study. A successful CI run reports an automated job outcome, not the student's preparation hours. These are **evidence-event dates**, not a day-by-day calendar of learning sessions.
+The dates above are **assessment or tool-event timestamps**, not start/end times for whole learning sessions. Quiz attempt durations and CI runtime **are not** used to calculate study hours.
 
-## Planned versus actual effort
+## English statement appropriate for the A3 report
 
-- **A1 plan:** Three goals at approximately **45 hours each** = **135 planned hours**.
-- **A3 brief:** Learning experiences equivalent to approximately **150 effort hours**.
-- **Actual hours supported by current records:** **Undetermined** (not zero).
-- **Verified 135 or 150 hours completed:** **No**.
-- **Method:** No numerical duration is calculated from submission dates, quiz scores, automated pipeline runtimes, or a vague multi-week recollection. Do not treat the 15-hour planning difference as completed time.
+> I confirm that I invested approximately 150 hours in the A1-aligned professional learning experiences across several weeks. This is my retrospective estimate, rather than a total calculated from contemporaneous daily timesheets. My A1 plan initially allocated 45 hours to each of three goals (135 hours in total), and I cannot reliably apportion the additional effort between goals. The submitted DesignR email, quiz outcomes and GitHub artefacts provide independently checkable evidence of specific achievements, but do not independently verify every hour of preparation or all chapter activities.
 
-## Suggested accurate wording for the A3 report
+## Remaining evidence gap
 
-> My professional learning activities were spread across several weeks, but I did not maintain a contemporaneous record of daily study hours. I can substantiate specific assessed outcomes and project artefacts through Canvas and GitHub records, including the DesignR submission, four quiz results, and a recorded CI run. These records demonstrate particular achievements but do not establish the time spent preparing for each activity. My A1 plan allocated 135 hours, while the A3 brief refers to approximately 150 effort hours; I therefore cannot verify an actual total and do not claim to have completed either number of hours.
+This honest self-report addresses **the student's own account of actual effort**. It does not amount to a separately audited 150-hour log or proof that all practical exercises and modules were completed. If the assessor requires stronger effort substantiation, the student may supply genuine calendar entries, study notes, assignment drafting history, or other time evidence.
 
-This paragraph is grounded partly in **the student's own recollection** (several weeks; daily hours unknown) and partly in checked evidence records. It does not prove that all modules were completed.
-
-## If more information becomes available
-
-Add an entry to [learning-hours.csv](learning-hours.csv) only for a **genuine past or new learning session** for which the activity and time are reasonably supportable. Record whether the time is contemporaneously logged or retrospectively estimated; link the relevant notes, calendar entry, dated file version, activity log, or submission. Do not double-count an assignment-writing session and a second goal or use AI review time as personal study time.
-
-[Back to learning log](README.md) · [Evidence register](../Evidence/README.md) · [Portfolio homepage](../README.md)
+[Learning evidence-event log](learning-hours.csv) · [Evidence register](../Evidence/README.md) · [Portfolio homepage](../README.md)
