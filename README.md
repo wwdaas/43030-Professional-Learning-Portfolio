@@ -31,6 +31,7 @@ In my A1 Skills Audit, I identified Java backend engineering as a long-term prof
 ## New Canvas assessment evidence (supplied 7 November 2026)
 
 - **E1.6:** [DesignR Assessment 2 — submitted 8 October 2026](Goal-1-Professional-Ethics/DesignR-Assessment-2-Submission.md). No mark visible.
+- **E1.7:** [DesignR email content reviewed](Goal-1-Professional-Ethics/DesignR-Submitted-Email-Analysis.md) — four actual management recommendations from the provided Word document; the original file is not public.
 - **E2.6–E2.7:** [Cybersecurity quiz results](Goal-2-Cybersecurity/Cybersecurity-Quiz-Results.md): **18.5/20** and **18/20**; both submitted on **7 November 2026**.
 - **E3.7–E3.8:** [GitHub Essentials and Workflow quiz results](Goal-3-Software-Development-Tools/GitHub-Quiz-Results.md): **9/10** and **8/10**; screenshot dates not visible.
 
