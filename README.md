@@ -28,6 +28,14 @@ In my A1 Skills Audit, I identified Java backend engineering as a long-term prof
 - **E2.3:** [Backend security risk review](Goal-2-Cybersecurity/Backend-Security-Risk-Review.md) — source-based inspection and risk reasoning, **not** a completed penetration test or module assessment.
 - **E3.3:** [FinLedger CI workflow evidence](Goal-3-Software-Development-Tools/CI-Workflow-Evidence.md) — successful recorded run of 3 September 2026, **not** evidence of learning hours or every A1 activity.
 
+## New Canvas assessment evidence (supplied 7 November 2026)
+
+- **E1.6:** [DesignR Assessment 2 — submitted 8 October 2026](Goal-1-Professional-Ethics/DesignR-Assessment-2-Submission.md). No mark visible.
+- **E2.6–E2.7:** [Cybersecurity quiz results](Goal-2-Cybersecurity/Cybersecurity-Quiz-Results.md): **18.5/20** and **18/20**; both submitted on **7 November 2026**.
+- **E3.7–E3.8:** [GitHub Essentials and Workflow quiz results](Goal-3-Software-Development-Tools/GitHub-Quiz-Results.md): **9/10** and **8/10**; screenshot dates not visible.
+
+These results were read from submitted Canvas screenshots. Original screenshot images have **not yet been uploaded to this GitHub repository**, and the learning-hours log is still incomplete.
+
 ## Portfolio navigation
 
 - [Goal 1: Professional Ethics and Indigenous Communities](Goal-1-Professional-Ethics/README.md)
