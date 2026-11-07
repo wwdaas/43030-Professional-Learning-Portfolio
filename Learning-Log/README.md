@@ -2,7 +2,7 @@
 
 ## Current status — 7 November 2026
 
-**Student's own recollection:** Learning across the four relevant Canvas modules took place **over several weeks**. The student cannot reliably recall an average number of hours per day, exact session dates, or total time. This is a qualitative recollection, **not** an authenticated hour-by-hour record.
+**Student's own recollection:** Learning across the four relevant Canvas modules took place **over several weeks**. The student explicitly confirms approximately **150 hours in total** as a retrospective self-report, but cannot reliably recall an average per day or exact session dates. This is a qualitative recollection, **not** an authenticated hour-by-hour record.
 
 - [Learning evidence-event log (CSV)](learning-hours.csv): six documented submission, quiz or CI outcomes.
 - [Professional learning effort statement](learning-effort-statement.md): a transparent English summary suitable for A3 report integration.
@@ -28,9 +28,9 @@ The file distinguishes **evidence dates** from **learning-session dates**. Canva
 
 ## Planned effort is not achieved effort
 
-The original **Assessment 1 plan** allocated **45 planned hours per goal**, totaling **135 planned hours**. The **A3 brief** describes learning equivalent to about **150 effort hours**. The real total remains **undetermined**; no completed hours are invented or implied by the rows.
+The original **Assessment 1 plan** allocated **45 planned hours per goal**, totaling **135 planned hours**. The **A3 brief** describes learning equivalent to about **150 effort hours**. The student self-reports **approximately 150 actual hours**, but this is **not independently verified** or distributed among sessions; no fabricated session hours are entered in the CSV.
 
-A blank actual-hours field means **unknown**, not zero hours studied. Neither quiz durations (3 or 4 minutes) nor an automated pipeline's runtime should be treated as total learning time.
+A blank session-hours field means the session duration is **unknown**, not zero hours studied; the separate total self-estimate is in the [learning-effort statement](learning-effort-statement.md). Neither quiz durations (3 or 4 minutes) nor automated CI runtime can independently verify this approximately 150-hour retrospective total.
 
 ## Future record additions
 
