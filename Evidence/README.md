@@ -2,7 +2,7 @@
 
 This register connects the **three goals in Assessment Task 1**, actual professional-learning activities, and the supporting artefacts referred to in the **Professional Learning Report (A3)**.
 
-**Status key:** **Pending** = activity/result not yet verified; **Artefact verified; learning unverified** = a written artefact or historical technical source can be checked, but course-module completion and learning hours remain unconfirmed; **Verified** = evidence, date and narrowly stated outcome have been checked. Never mark a course module or hours as completed solely because an artefact exists.
+**Status key:** **Canvas screenshot verified; image upload pending** = the supplied image visibly supports the result, but the image still needs to be uploaded into this public repository (after privacy review); **Pending** = activity/result not yet verified; **Artefact verified; learning unverified** = a written artefact or historical technical source can be checked, but course-module completion and learning hours remain unconfirmed; **Verified** = evidence, date and narrowly stated outcome have been checked. Never mark a course module or hours as completed solely because an artefact exists.
 
 | Evidence ID | A1 goal | Planned / suggested artefact | Date | Status | Evidence link | What this demonstrates |
 |---|---|---|---|---|---|---|
@@ -19,6 +19,12 @@ This register connects the **three goals in Assessment Task 1**, actual professi
 | E3.3 | Tools | FinLedger historical CI configuration, run and results | 2026-09-03 | Verified (recorded run only) | [Workflow evidence](../Goal-3-Software-Development-Tools/CI-Workflow-Evidence.md) | Recorded Maven verification and Docker image build succeeded; not 45 hours or course completion |
 | E3.4 | Tools | Java project workflow documentation | — | Pending | — | Professional documentation |
 | E3.5 | Tools | CI/CD workflow run (if completed) | — | Pending | — | Continuous integration |
+
+| **E1.6** | Ethics | DesignR Assessment 2 submission record | 2026-10-08, 14:24 | **Canvas screenshot verified; image upload pending** | [Submission record](../Goal-1-Professional-Ethics/DesignR-Assessment-2-Submission.md) | Assignment submitted; score not shown and modules not verified |
+| **E2.6** | Cybersecurity | Cybersecurity Assessment 1 Quiz | 2026-11-07, 17:06 | **Canvas screenshot verified; image upload pending** | [Quiz results](../Goal-2-Cybersecurity/Cybersecurity-Quiz-Results.md) | **18.5/20 (92.5%)**; actual quiz submission |
+| **E2.7** | Cybersecurity | Cybersecurity Assessment 2 Quiz | 2026-11-07, 17:10 | **Canvas screenshot verified; image upload pending** | [Quiz results](../Goal-2-Cybersecurity/Cybersecurity-Quiz-Results.md) | **18/20 (90%)**; actual quiz submission |
+| **E3.7** | Tools | GitHub Essentials Quiz 1 | Submission date not visible | **Canvas screenshot verified; image upload pending** | [Quiz results](../Goal-3-Software-Development-Tools/GitHub-Quiz-Results.md) | **9/10 (90%)**, last attempt 3 minutes |
+| **E3.8** | Tools | GitHub Workflow Quiz 2 | Submission date not visible | **Canvas screenshot verified; image upload pending** | [Quiz results](../Goal-3-Software-Development-Tools/GitHub-Quiz-Results.md) | **8/10 (80%)**, last attempt 4 minutes |
 
 ## How to add a real artefact
 
