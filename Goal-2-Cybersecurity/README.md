@@ -24,6 +24,13 @@ The A1 Skills Audit also mentioned a plan to study **OWASP Top 10** and explore 
 
 - [E2.3: Source-based backend security risk review](Backend-Security-Risk-Review.md) — documented evaluation of existing project code; not proof of real security test execution or course completion.
 
+## Canvas quiz results
+
+- **E2.6:** Cybersecurity Assessment 1 — **18.5/20 (92.5%)**, submitted **7 November 2026 at 17:06**.
+- **E2.7:** Cybersecurity Assessment 2 — **18/20 (90%)**, submitted **7 November 2026 at 17:10**.
+
+[View verified score record and evidence scope](Cybersecurity-Quiz-Results.md). Original screenshot images still need uploading to this public repository after privacy review.
+
 ## 3. Evidence to add
 
 - [ ] **E2.1** — Introduction to Cybersecurity module record
