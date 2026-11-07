@@ -2,7 +2,7 @@
 
 The A1 learning plan allocated **45 hours to each of three goals**, or **135 hours in total**. The A3 brief describes a learning experience equivalent to **approximately 150 effort hours**. The final report should explain the difference honestly, based on actual effort — not assume the extra 15 hours were completed.
 
-Use [learning-hours.csv](learning-hours.csv) to document **real** sessions. Replace template rows with one line per activity when accurate information is available.
+[learning-hours.csv](learning-hours.csv) now records **six verifiable assessment/artefact events** (DesignR submission, two Cybersecurity quizzes, two GitHub quizzes, and a historical FinLedger CI run). The actual study-hour fields remain blank because the uploaded material does not establish how long the student spent studying. These events must **not** be summed as 135 or 150 study hours. Add time only for genuinely performed and supportable learning sessions.
 
 ## Recommended fields
 
