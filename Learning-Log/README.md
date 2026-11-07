@@ -1,20 +1,41 @@
-# Learning Hours Log
+# Learning Time and Evidence Log
 
-The A1 learning plan allocated **45 hours to each of three goals**, or **135 hours in total**. The A3 brief describes a learning experience equivalent to **approximately 150 effort hours**. The final report should explain the difference honestly, based on actual effort — not assume the extra 15 hours were completed.
+## Current status — 7 November 2026
 
-[learning-hours.csv](learning-hours.csv) now records **six verifiable assessment/artefact events** (DesignR submission, two Cybersecurity quizzes, two GitHub quizzes, and a historical FinLedger CI run). The actual study-hour fields remain blank because the uploaded material does not establish how long the student spent studying. These events must **not** be summed as 135 or 150 study hours. Add time only for genuinely performed and supportable learning sessions.
+**Student's own recollection:** Learning across the four relevant Canvas modules took place **over several weeks**. The student cannot reliably recall an average number of hours per day, exact session dates, or total time. This is a qualitative recollection, **not** an authenticated hour-by-hour record.
 
-## Recommended fields
+- [Learning evidence-event log (CSV)](learning-hours.csv): six documented submission, quiz or CI outcomes.
+- [Professional learning effort statement](learning-effort-statement.md): a transparent English summary suitable for A3 report integration.
+- [Evidence register](../Evidence/README.md): links to source descriptions and scope of proof.
 
-- **Date** — when you performed the activity.
-- **Goal** — Goal 1 / Goal 2 / Goal 3.
-- **Activity** — what you actually did.
-- **Learning resource** — course module, notes, project, exercise or reference.
-- **Actual hours** — honest estimate of time invested (not the planned hours).
-- **Evidence ID** — e.g., E1.2, linked to the [evidence register](../Evidence/README.md).
-- **Reflection or outcome** — a concrete result, changed understanding or next question.
-- **Verification status** — Pending or Verified.
+## How to interpret the CSV
 
-Add extra rows only for genuine professional-learning activities that fit the assessment. Before claiming a total, sum the numeric **Actual_hours** entries and review for duplicate or overlapping sessions.
+The file distinguishes **evidence dates** from **learning-session dates**. Canvas timestamps identify when assessments were submitted; GitHub timestamps identify when CI ran. They do **not** reveal how long the student spent studying or drafting.
+
+| Field | Meaning |
+|---|---|
+| Evidence_date | Recorded submission or automation-run date (blank when unavailable) |
+| Learning_session_date | Actual date of study (blank until known) |
+| Goal | Corresponding A1 goal |
+| Activity_or_evidence_event | Verified outcome or event being documented |
+| Learning_resource | Canvas module, assignment or development system |
+| Actual_study_hours | Actual or defensibly estimated study duration; **blank when unknown** |
+| Hours_record_type | Whether hours were recorded or retrospectively estimated |
+| Evidence_ID | Link key into the evidence register |
+| Observed_result | The outcome directly supported by the evidence |
+| What_the_date_proves | Explicit boundary of timestamp evidence |
+| Verification_status | Which parts of the record are verified and unknown |
+
+## Planned effort is not achieved effort
+
+The original **Assessment 1 plan** allocated **45 planned hours per goal**, totaling **135 planned hours**. The **A3 brief** describes learning equivalent to about **150 effort hours**. The real total remains **undetermined**; no completed hours are invented or implied by the rows.
+
+A blank actual-hours field means **unknown**, not zero hours studied. Neither quiz durations (3 or 4 minutes) nor an automated pipeline's runtime should be treated as total learning time.
+
+## Future record additions
+
+When you have a defensible recollection or evidence of a particular past study session, add its real date or a clearly labelled approximate date, topic, study duration and corroborating materials. If it is an estimate, mark it **Retrospective estimate** and explain the basis. Avoid overlapping or duplicate counts across goals.
+
+This log is an evidence-support document for the report, not a replacement for actual course participation or assessed work.
 
 [Back to homepage](../README.md)
